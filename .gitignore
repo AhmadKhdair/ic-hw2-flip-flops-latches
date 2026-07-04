@@ -1,0 +1,7 @@
+*.log
+*.raw
+*.op.raw
+.~lock.*
+*.tmp
+.DS_Store
+Thumbs.db
